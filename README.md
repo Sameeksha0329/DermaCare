@@ -14,11 +14,11 @@ graph TD
     B --> C[ML Model Analysis]
     C --> D[Groq API Report Generation]
     D --> E[AI Chatbot]
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#bfb,stroke:#333,stroke-width:2px
-    style D fill:#fbb,stroke:#333,stroke-width:2px
-    style E fill:#bfb,stroke:#333,stroke-width:2px
+    style A fill:#e0f7fa,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
+    style B fill:#e8f5e9,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
+    style C fill:#fff3e0,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
+    style D fill:#f3e5f5,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
+    style E fill:#e8f5e9,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
 ```
 
 ## 🎯 Key Features
