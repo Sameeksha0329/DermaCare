@@ -8,7 +8,7 @@ DermaCare is an advanced AI-powered skin disease diagnosis system that combines 
 
 ## 🔄 Architecture
 
-mermaid
+```mermaid
 graph TD
     A[User Uploads Image] --> B[Cloudinary Image Processing]
     B --> C[ML Model Analysis]
@@ -19,6 +19,7 @@ graph TD
     style C fill:#fff3e0,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
     style D fill:#f3e5f5,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
     style E fill:#e8f5e9,stroke:#333,stroke-width:2px,stroke-dasharray:5,5,font-size:14px,font-weight:bold,color:#000
+```
 
 
 ## 🎯 Key Features
